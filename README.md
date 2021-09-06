@@ -25,4 +25,4 @@ java AntTester
 The program should look like this: <br>
 ![Screen Shot 2021-09-06 at 13 08 19](https://user-images.githubusercontent.com/66441548/132241015-f94219ee-c2f6-4ad1-9ad8-af47ec9ae4f5.png)
 
-
+This assignments helps students to better understand the Ant Colony Optimisation algorithm and using pheromones to find the shortest path. 
